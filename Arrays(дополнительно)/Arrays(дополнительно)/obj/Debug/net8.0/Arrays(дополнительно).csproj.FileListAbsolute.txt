@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\bin\Debug\net8.0\Arrays(дополнительно).exe
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\bin\Debug\net8.0\Arrays(дополнительно).deps.json
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\bin\Debug\net8.0\Arrays(дополнительно).runtimeconfig.json
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\bin\Debug\net8.0\Arrays(дополнительно).dll
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\bin\Debug\net8.0\Arrays(дополнительно).pdb
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).dll
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\refint\Arrays(дополнительно).dll
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).pdb
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\Arrays(дополнительно).genruntimeconfig.cache
+C:\Users\User\source\repos\Arrays(дополнительно)\Arrays(дополнительно)\obj\Debug\net8.0\ref\Arrays(дополнительно).dll
